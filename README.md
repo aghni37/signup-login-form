@@ -28,7 +28,7 @@ signup-login-form/
 ## 🚀 Cara Menjalankan
 1. Clone repository:
 ```
-git clone https://github.com/username/signup-login-form.git
+git clone https://github.com/aghni37/signup-login-form.git
 ```
 2. Masuk ke folder project:
 ```
@@ -44,7 +44,9 @@ cd signup-login-form
 ## 📸 Preview
 Tambahkan screenshot tampilan project:
 ```
-![Preview](preview.png)
+![Preview](preview01.png)
+
+![Preview](preview02.png)
 ```
 
 ## 📌 Catatan
