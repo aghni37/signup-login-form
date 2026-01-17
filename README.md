@@ -42,11 +42,11 @@ cd signup-login-form
 - CSS mengatur animasi dan perubahan layout berdasarkan class tersebut
 
 ## 📸 Preview
-```
+
 ![Login](preview01.png)
 
 ![Register](preview02.png)
-```
+
 
 ## 📌 Catatan
 - Project ini hanya UI (belum terhubung backend)
