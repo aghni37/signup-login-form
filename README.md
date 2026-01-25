@@ -1,4 +1,4 @@
-# Signup & Login Form
+# Auth Motion
 
 Proyek antarmuka **Signup & Login Form** modern dan responsif menggunakan **HTML, CSS, dan JavaScript**.  
 Menampilkan form Login dan Register dalam satu halaman dengan animasi toggle tanpa reload.
